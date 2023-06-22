@@ -1,6 +1,6 @@
 # Future-conditioned Unsupervised Pretraining for Decision Transformer
 
-This repository is the official implementation of our ICML 2023 paper [Future-conditioned Unsupervised Pretraining for Decision Transformer]().
+This repository is the official implementation of our ICML 2023 paper [Future-conditioned Unsupervised Pretraining for Decision Transformer](https://arxiv.org/abs/2305.16683).
 
 ## Requirements
 
