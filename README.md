@@ -1,6 +1,8 @@
 # Future-conditioned Unsupervised Pretraining for Decision Transformer
 
 This repository is the official implementation of our ICML 2023 paper [Future-conditioned Unsupervised Pretraining for Decision Transformer](https://arxiv.org/abs/2305.16683).
+Here is the [poster](assets/poster.pdf).
+
 
 ## Requirements
 
@@ -72,3 +74,17 @@ tensorboard --logdir /path/to/res
 
 ## Acknowledgement
 This repository is based on [online-dt](https://github.com/facebookresearch/online-dt), which is licensed under [CC-BY-NC](https://github.com/facebookresearch/online-dt/blob/main/LICENSE.md). We have made modifications to the models, data processing, and training/evaluation scripts to fit our needs.
+
+## Citation
+If you use our code or find our work valuable, please cite:
+
+```
+@inproceedings{xie2023future,
+  title={Future-conditioned Unsupervised Pretraining for Decision Transformer},
+  author={Xie, Zhihui and Lin, Zichuan and Ye, Deheng and Fu, Qiang and Wei, Yang and Li, Shuai},
+  booktitle={International Conference on Machine Learning},
+  pages={38187--38203},
+  year={2023},
+  organization={PMLR}
+}
+```
